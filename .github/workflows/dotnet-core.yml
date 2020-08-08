@@ -10,7 +10,8 @@ jobs:
   build:
     env:
       IDENTIFICACAO_ALUNO: anp-aluno-26
-      DIRETORIO_WEBAPP: ./ASPNETCore3.1-SiteMVC-ContagemAcessos
+      DIRETORIO_WEBAPP: ./SiteContagem
+
 
     runs-on: ubuntu-latest
 
