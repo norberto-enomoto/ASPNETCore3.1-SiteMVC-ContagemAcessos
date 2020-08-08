@@ -9,7 +9,7 @@ on:
 jobs:
   build:
     env:
-      IDENTIFICACAO_ALUNO: anp-aluno-26
+      IDENTIFICACAO_ALUNO: 26
       DIRETORIO_WEBAPP: ./SiteContagem
 
 
